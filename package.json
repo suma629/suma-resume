@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/suma629/suma-resume/issues"
   },
-  "homepage": "https://github.com/suma629/suma-resume#readme"
+  "homepage": "https://github.com/suma629/suma-resume#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
